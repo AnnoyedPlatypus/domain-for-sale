@@ -1,12 +1,20 @@
 # Domain For Sale Landing Page
 
-I created a free webpage template to sale your domain.
-It's Fast and efficiently and purchaser can email you throught this free template.
+Landing page for a domain for sale. Intended to be deployed to a
+serverless option like S3.
+
+Updated wording and form submission sends to an API - compared
+to the original.
 
 ## To Use 
-You can clone folder & host on you server. But you need to change certain elements.
+You can clone this repo & host it yourself. But you need to 
+change certain elements.
+Just open the index.html file and edit as needed. The items to change
+are noted in the code.
+
 - Page title 
 - Domain sale price 
 - Email address on index & contact page 
-- Phone Number
 - Your name and other information
+- Form submission API endpoint
+- Google recaptcha key
